@@ -39,4 +39,4 @@ Follow this structure:
     │   └───locale
     ├───modules
     │   └───locale
-    └───update_tracking
+    └───update_tracking 
